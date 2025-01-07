@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: omitting the 'then' keyword in an 'if' statement. The code in 'bug.tcl' shows the incorrect usage, while 'bugSolution.tcl' provides the corrected version.
